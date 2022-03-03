@@ -2,9 +2,8 @@
 
 #### I'm Inky
 
-- 🔭 I’m currently working on a [Documentation for the Tkinter Module. Sorta.](https://github.com/Inky1003/tknutshell)
-- 🌱 Currently learning: Tkinter and some other Python Modules
-- 🤔 I’m looking for help with the Documentation mentioned above for translations.
+- 🔭 I'm working at some personal projects that still aren't on GitHub
+- 🌱 Currently learning: Deno API and Rust
 - 📫 How to reach me: Call my Discord: @Inky1003#7534
-- 😄 Pronouns: Ele/He/Him
-- ⚡ Fun fact: I love old video technologies (mainly non-digital)!
+- 😄 Pronouns: The male ones
+- ⚡ Fun fact: I love old video technologies (mainly non-digital)
